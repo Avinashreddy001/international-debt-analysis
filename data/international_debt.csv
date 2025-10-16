@@ -1,0 +1,21 @@
+country_name,country_code,indicator_name,indicator_code,debt_value,year
+United States,USA,External Debt,ED001,7500000000000,2023
+China,CHN,External Debt,ED001,2500000000000,2023
+Japan,JPN,External Debt,ED001,4000000000000,2023
+Germany,DEU,External Debt,ED001,750000000000,2023
+United Kingdom,GBR,External Debt,ED001,850000000000,2023
+France,FRA,External Debt,ED001,700000000000,2023
+India,IND,External Debt,ED001,650000000000,2023
+Brazil,BRA,External Debt,ED001,320000000000,2023
+Mexico,MEX,External Debt,ED001,280000000000,2023
+Russia,RUS,External Debt,ED001,360000000000,2023
+United States,USA,Short-term Debt,SD001,1200000000000,2023
+China,CHN,Short-term Debt,SD001,450000000000,2023
+Japan,JPN,Short-term Debt,SD001,600000000000,2023
+Germany,DEU,Short-term Debt,SD001,120000000000,2023
+United Kingdom,GBR,Short-term Debt,SD001,140000000000,2023
+France,FRA,Short-term Debt,SD001,110000000000,2023
+India,IND,Short-term Debt,SD001,100000000000,2023
+Brazil,BRA,Short-term Debt,SD001,50000000000,2023
+Mexico,MEX,Short-term Debt,SD001,45000000000,2023
+Russia,RUS,Short-term Debt,SD001,60000000000,2023
