@@ -103,12 +103,3 @@ Or for larger queries, save to a file and run:
 sqlite3 database.db < sql/queries.sql
 ```
 
-## Learning Outcomes
-
-Through this project you'll learn:
-- ✅ Database design and schema creation
-- ✅ Data cleaning and transformation
-- ✅ SQL SELECT queries with filtering
-- ✅ Aggregation and grouping
-- ✅ Real-world data analysis
-- ✅ Git workflow and version control
